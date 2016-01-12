@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Mickey\\StudioProjects\\ExpListView\\app\\build\\intermediates\\res\\merged\\debug\\layout\\child_layout.xml",
+        "source": "C:\\Users\\Mickey\\StudioProjects\\ExpListView\\app\\src\\main\\res\\layout\\child_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mickey\\StudioProjects\\ExpListView\\app\\build\\intermediates\\res\\merged\\debug\\layout\\group_layout.xml",
+        "source": "C:\\Users\\Mickey\\StudioProjects\\ExpListView\\app\\src\\main\\res\\layout\\group_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mickey\\StudioProjects\\ExpListView\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\Mickey\\StudioProjects\\ExpListView\\app\\src\\main\\res\\layout\\main.xml"
+    }
+]
